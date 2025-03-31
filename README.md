@@ -1,6 +1,6 @@
 # Hi there, I'm Brian aka Oceanyx 🌙
 
-##About|[Portfolio](oceanyx.github.io)
+## About | [Portfolio](https://oceanyx.github.io)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
