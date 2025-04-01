@@ -15,7 +15,9 @@ When I’m not coding, you’ll probably find me gaming, reading, working out, w
 - 👯 I’m looking to collaborate on any fun projects/games!
 - 🤔 I’m looking for help with System Design
 - ⚡ Interests: Robotics, Coding, Philosophy, Psychology, Literature, Chess, Gaming
-- 📫 How to reach me: Email me at bchanyx@gmail.com or connect on my LinkedIn
+- 📫 How to reach me: Email me at bchanyx@gmail.com or connect on my LinkedIn [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### :hammer_and_wrench: Languages and Tools :
 
