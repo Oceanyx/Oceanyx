@@ -14,7 +14,7 @@ When I’m not coding, you’ll probably find me reading, writing, working out, 
 - 🌱 I’m currently learning more in-depth React and C
 - 👯 I’m looking to collaborate on any fun projects/games you want to create!
 - 🤔 I’m looking for help with System Design
-- ⚡ Interests: Robotics, Coding, Philosophy, Psychology, Literature, Chess, Gaming, Mechanics
+- ⚡ Interests: Robotics, Coding, Philosophy, Psychology, Literature, History, Chess, Gaming, Mechanics
 
 ## Connect with me!
 Email me at bchanyx@gmail.com or connect on my LinkedIn [![website](./img/linkedin-light.svg)](https://linkedin.com/in/oceanyx)
